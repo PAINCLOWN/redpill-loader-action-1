@@ -8,7 +8,5 @@
   "synoinfo": {
     "supportsystemperature": "no",
     "supportsystempwarning": "no",
-    "esataportcfg": "0x0000",
-    "internalportcfg": "0xffff"	
   }
 }
